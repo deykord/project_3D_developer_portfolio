@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Assistant Sales Manager",
     company_name: "RAYA BARTAR YEKTASAD",
-    icon: starbucks,
+    icon: shopify,
     iconBg: "#383E56",
     date: "April 2024 - Present",
     points: [
@@ -131,8 +131,8 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Farskeshavarz",
-    icon: tesla,
-    iconBg: "#E6DEDD",
+    icon: shopify,
+    iconBg: "#383E56",
     date: "Jan 2021 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -157,7 +157,7 @@ const experiences = [
   {
     title: "Assistant Sales Manager",
     company_name: "RAYA BARTAR YEKTASAD",
-    icon: starbucks,
+    icon: shopify,
     iconBg: "#383E56",
     date: "April 2024 - Present",
     points: [
